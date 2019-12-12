@@ -21,7 +21,7 @@ a {
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:hover {
-    color: #ff8552; }
+    color: #106299; }
 
 h1,
 h2,
@@ -31,9 +31,33 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
-#services{
-  margin-bottom: -20px;
+.intro{
+  font-size:4.1em !important;
 }
+
+.sub-intro{
+  font-size:1.6em !important;
+}
+
+#sub-introo{
+  font-size:1.1em !important;
+
+}
+
+#my_details{
+  font-size:1.01em !important;
+}
+
+.prof{
+  height:100% !important;
+  width: 100% !important;
+}
+
+.row{
+  width:100%;
+}
+
+
 
 .bio-paragraph{
   font-family: 'Raleway', sans-serif;
@@ -278,7 +302,7 @@ body {
     color: #212529; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-      color: #0c6291; }
+      color: #505355; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
       color: #79c7ca !important;
@@ -299,7 +323,7 @@ body {
         padding: 0.5rem 1rem; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: #0c6291 }
+        color: black }
         #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
           color: #0e103d; }
@@ -479,3 +503,30 @@ header.masthead {
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #f4f4f4;
     background-color: #0b3c5d !important; }
+
+
+    
+#me{
+  margin-top: -20px;
+  margin-bottom: -150px;
+}
+
+#main_header{
+  margin-bottom: -40px;
+}
+
+#project{
+  margin-bottom: -150px;
+}
+
+#resume{
+  margin-bottom: -120px;
+}
+
+#contact{
+  margin-bottom: -220px;
+}
+
+#photos{
+  margin-bottom: -120px;
+}
