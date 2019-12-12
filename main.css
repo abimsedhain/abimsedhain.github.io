@@ -32,7 +32,8 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 .intro{
-  font-size:4.1em !important;
+  font-size:3.9em !important;
+  margin-left: 15px;
 }
 
 .sub-intro{
@@ -41,6 +42,8 @@ h6 {
 
 #sub-introo{
   font-size:1.1em !important;
+  margin-left: 15px;
+  margin-top:18px;
 
 }
 
@@ -56,7 +59,6 @@ h6 {
 .row{
   width:100%;
 }
-
 
 
 .bio-paragraph{
@@ -480,7 +482,8 @@ header.masthead {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
       font-size: 16px; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-      font-size: 22px; } }
+      font-size: 22px; }
+       }
 
 
 
@@ -508,7 +511,7 @@ header.masthead {
     
 #me{
   margin-top: -20px;
-  margin-bottom: -150px;
+  margin-bottom: -160px;
 }
 
 #main_header{
@@ -527,6 +530,7 @@ header.masthead {
   margin-bottom: -220px;
 }
 
-#photos{
+#sub_photos{
   margin-bottom: -120px;
 }
+
