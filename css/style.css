@@ -1,17 +1,41 @@
-#p1,#p2,#p3,#p4,#p5{
+#p1,
+#p2,
+#p3,
+#p4,
+#p5,
+#p6 {
     font-size: 20px;
     font-weight: bolder;
-  }
-
-.copyright{
-    margin-top: 160px;
 }
 
-#let{
+.copyright {
+    margin-top: 150px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+#mail,
+#linkedin,
+#github {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+
+#intouch {
     font-weight: bolder;
 }
 
-#p0{
- font-size: 50px;
+#p0 {
+    font-size: 50px;
+}
+
+#hackathon {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
